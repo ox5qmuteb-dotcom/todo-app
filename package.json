@@ -21,7 +21,7 @@
     "@dnd-kit/sortable": "^10.0.0",
     "@vercel/postgres": "^0.10.0",
     "drizzle-orm": "^0.38.3",
-    "next": "^15.1.12",
+    "next": "^15.5.27",
     "pg": "^8.18.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
